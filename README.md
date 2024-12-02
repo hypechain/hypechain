@@ -16,6 +16,8 @@ We are actively involved in several groundbreaking projects that showcase our co
 - **Airchain**: Our step-by-step guide to deploying and maintaining Airchain nodes. Learn how to efficiently run Airchain validators with our expert insights. [Explore Airchain Guide](https://github.com/hypechain/guides/tree/main/airchain-guide/README.md)
   
 - **Nubit**: An in-depth manual for Nubit node operation and validation. Discover how to enhance your Nubit network's performance with our specialized guide. [Explore Nubit Guide](https://github.com/hypechain/guides/blob/main/nubit/README.MD)
+  
+- **Bool Network**: [Explore Bool Guide]()
 
 💡 **Why Choose Us?**  
 At HypeChain, we are more than just a team of developers. We are innovators, problem-solvers, and blockchain enthusiasts dedicated to driving forward the decentralized future. Our approach is client-centric, focusing on delivering high-quality, reliable, and secure blockchain solutions.
